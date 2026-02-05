@@ -27,12 +27,15 @@ When creating or improving documents:
 Every document should have:
 
 ```markdown
-# [Clear, Descriptive Title]
+# [Clear and Short, Title]
+
+> the TL/DR prefaced with "TL/DR:summary" as in "TL/DR:this document is X (in less than 100 words) 
 
 > Brief 1-2 sentence description
 
-**Related:** [Links to related docs]
-**Last Updated:** [Date]
+> Textbook style outline of the core knowledge in this document.
+
+
 
 ---
 
