@@ -10,6 +10,7 @@ This repository is a cumulative knowledgebase. Each document builds upon previou
 - Build upon, reference, and connect to existing knowledge
 - Identify gaps or contradictions with existing documents
 - Suggest links to related documents
+- If you have clarification questions for the user, ask them at the end of every response
 
 ### Input → Output Transformation
 - **Input:** Rough notes, brain dumps, conversations, partial information
@@ -24,10 +25,13 @@ When creating or improving documents:
 
 ## Document Structure
 
-Every document should have:
+Every document should have a file name of /docs/[clear_short_filename_title.MD]
+
+do not create directories under /docs, however, 
+
 
 ```markdown
-# [Clear and Short, Title]
+# file name:  [clear_short_filename_title.MD]
 
 > the TL/DR prefaced with "TL/DR:summary" as in "TL/DR:this document is X (in less than 100 words) 
 
