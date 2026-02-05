@@ -27,8 +27,7 @@ When creating or improving documents:
 
 Every document should have a file name of /docs/[clear_short_filename_title.MD]
 
-do not create directories under /docs, however, 
-
+suggest reorganization of folders under docs, or creating new folders under docs, if needed.
 
 ```markdown
 # file name:  [clear_short_filename_title.MD]
