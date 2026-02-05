@@ -1,2 +1,2 @@
-/inputs/*
-!/inputs/README.md
+/.input/*
+!/.input/README.md
