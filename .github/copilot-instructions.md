@@ -10,7 +10,7 @@ This repository is a cumulative knowledgebase. Each document builds upon previou
 - Build upon, reference, and connect to existing knowledge
 - Identify gaps or contradictions with existing documents
 - Suggest links to related documents
-- If you have clarification questions for the user, ask them at the end of every response
+
 
 ### Input → Output Transformation
 - **Input:** Rough notes, brain dumps, conversations, partial information
@@ -94,5 +94,6 @@ When asked to create/improve documents, provide:
 2. **Integration notes:** What documents this relates to
 3. **Next steps:** What additional documents would be valuable
 4. **Filename suggestion:** Appropriate name for this document
+5. **Clarity questions**: always suffix your respones with any clarification questions you have for the user.
 
 Remember: You are building a **cumulative knowledge system**. Each document makes the next easier.
